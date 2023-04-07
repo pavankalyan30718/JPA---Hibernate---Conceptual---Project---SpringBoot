@@ -1,0 +1,12 @@
+JPA Defines the specification. It is an API.
+	--How do you define entities?
+	--How do you map attributes?
+	--Who manages the entities?
+
+Hibernate is one of the popular implementations of JPA
+
+Using Hibernate directly would result in a lock-in to Hibernate
+
+(Ex:- we add hibernate jars to our class path and implement JPA.)
+
+--There are other JPA Implementations (TopLink, for example)

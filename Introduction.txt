@@ -1,0 +1,16 @@
+Learning JPA & Hibernate - Approach
+
+1.Create a Spring Boot Project with H2
+
+2.Create COURSE table
+
+3.Use Spring JDBC to play with COURSE table.
+
+4.Use JPA & Hibernate to play with COURSE table.
+
+5.Use Spring Data JPA to play with COURSE table.
+
+
+Architecture:
+
+JDBC-->Spring JDBC-->JPA-->Spring Data JPA
